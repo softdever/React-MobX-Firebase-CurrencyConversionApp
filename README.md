@@ -5,7 +5,7 @@ Currency Conversion application using react.js , MobX, firebase, webpack, babel
 title: Currency Conversion App
 description: React, MobX, Firebase Simple App
 author: Erick Resendiz
-tags: react.js , MobX, firebase, webpack, babel, reactive programming, live reload, websockets
+tags: react.js , MobX, firebase, webpack, babel, reactive programming, realtime data base, websockets
 
 ---
 
