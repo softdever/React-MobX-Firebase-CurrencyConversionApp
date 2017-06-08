@@ -18,7 +18,7 @@ Currency conversion inputs and history view
 
 Firebase View
 =========
-## Firebase will reflect inmediate changes once some change is done in the app and vicevera
+## Firebase will reflect inmediate changes once some change is done in the app and viceversa
 ![Alt text](/images/2.png?raw=true "Optional Title")
 <br />
 <br />
