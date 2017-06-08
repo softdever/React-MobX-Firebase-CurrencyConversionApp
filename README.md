@@ -9,23 +9,17 @@ tags: react.js , MobX, firebase, webpack, babel, react programming, live reload,
 
 ---
 
-Login/Register
+Currency conversion inputs and history view
 =========
 ![Alt text](/images/1.png?raw=true "Optional Title")
 <br />
 <br />
 
 
-Internationalization
+Firebase View
 =========
-## Supports English and Spanish languages
+## Firebase will reflect inmediate changes once some change is done in the app and vicevera
 ![Alt text](/images/2.png?raw=true "Optional Title")
-<br />
-<br />
-
-
-## Text and labels updated to selected language
-![Alt text](/images/3.png?raw=true "Optional Title")
 <br />
 <br />
 
